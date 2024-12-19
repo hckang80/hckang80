@@ -1,4 +1,3 @@
-👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Sky's+GitHub)](https://git.io/typing-svg)
 
 **Techs**
