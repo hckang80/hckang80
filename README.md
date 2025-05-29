@@ -15,7 +15,5 @@
 
 <details>
   <summary>동료의 추천</summary>
-  ![스크린샷 2025-05-29 오전 11 39 23](https://github.com/user-attachments/assets/6a61706e-dedf-4f78-b68d-62adebef3dde)
-
   ![스크린샷 2025-05-29 오전 11 40 41](https://github.com/user-attachments/assets/c6becab9-f027-4b5f-8e33-de0fd86b9ba8)
 </details>
