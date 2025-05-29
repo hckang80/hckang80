@@ -14,11 +14,12 @@
 구직활동과 [성경 서비스](https://github.com/hckang80/trueword)를 만들며 지내고 있습니다.
 
 **동료의 추천**
-![스크린샷 2025-05-29 오전 11 39 23](https://github.com/user-attachments/assets/6a61706e-dedf-4f78-b68d-62adebef3dde)
+
+![Image](https://github.com/user-attachments/assets/f64d87e0-05b6-4edc-822f-d51e78255a59)
 
 <details>
   <summary>추천서 더보기</summary>
 
-![스크린샷 2025-05-29 오전 11 40 41](https://github.com/user-attachments/assets/c6becab9-f027-4b5f-8e33-de0fd86b9ba8)
+![Image](https://github.com/user-attachments/assets/c6becab9-f027-4b5f-8e33-de0fd86b9ba8)
 
 </details>
