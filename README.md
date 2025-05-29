@@ -15,11 +15,12 @@
 
 **동료의 추천**
 
-![Image](https://github.com/user-attachments/assets/f64d87e0-05b6-4edc-822f-d51e78255a59)
+![Image](https://github.com/user-attachments/assets/c225afab-6df9-486f-9527-3e5b850b6ac5)
 
 <details>
   <summary>추천서 더보기</summary>
 
 ![Image](https://github.com/user-attachments/assets/c6becab9-f027-4b5f-8e33-de0fd86b9ba8)
+
 
 </details>
