@@ -11,7 +11,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hckang80&show_icons=true&theme=transparent) -->
 
-구직활동과 [성경 서비스](https://github.com/hckang80/trueword)를 만들며 지내고 있습니다.
+구직활동과 [성경 서비스](https://github.com/hckang80/trueword)를 만들며 가정에 더욱 충실하게 지내고 있습니다.
 
 **동료의 추천**
 
